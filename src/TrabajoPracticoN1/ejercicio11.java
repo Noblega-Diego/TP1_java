@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author diego
  */
-public class ejercisio11 {
+public class ejercicio11 {
     //el static usado en los metodos tales como el main para usar el metodo sin necesidad de instanciar la clase
     public static void main(String[] args){
         String password = "qwert321";

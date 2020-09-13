@@ -9,7 +9,7 @@ import java.util.Scanner;
  *
  * @author diego
  */
-public class ejercisio05 {
+public class ejercicio05 {
     public static void main(String[] args){
         int num;
         //instanciamos la clase Scanner par la lectura de datos por la terminal.

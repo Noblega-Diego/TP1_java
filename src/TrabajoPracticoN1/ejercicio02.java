@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
  *
  * @author diego
  */
-public class ejercisio02 {
+public class ejercicio02 {
     public static void main(String[] args){
         String nombre;
         Scanner in = new Scanner(System.in);

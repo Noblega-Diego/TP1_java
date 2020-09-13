@@ -8,7 +8,7 @@ import java.util.Scanner;
  *
  * @author diego
  */
-public class ejercisio10 {
+public class ejercicio10 {
     public static void main(String[] args){
         short num;
         Scanner scanner = new Scanner(System.in);

@@ -8,7 +8,7 @@ package TrabajoPracticoN1;
  *
  * @author diego
  */
-public class ejercisio03 {
+public class ejercicio03 {
     public static void main(String[] args){
         int num1 = 64;
         int num2 = 32;

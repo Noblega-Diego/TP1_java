@@ -10,7 +10,7 @@ import java.util.Scanner;
  *
  * @author diego
  */
-public class ejercisio01 {
+public class ejercicio01 {
     
     public static void main(String[] args){
         String nombre = "diego";

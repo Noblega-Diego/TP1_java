@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author diego
  */
-public class ejercisio13 {
+public class ejercicio13 {
     public static void main(String[] args){
         int numero;
         byte contadorDeDivisores;//cantidad de divisores. ya que solo necesitamos 3 divisores para saber si es impar, por esa razon se eligio el byte 

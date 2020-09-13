@@ -13,7 +13,7 @@ import java.util.Scanner;
  *
  * @author diego
  */
-public class ejercisio14 {
+public class ejercicio14 {
     public static void main(String[] args){
         byte numero_aleatorio = 0;
         byte numero_ingresado;

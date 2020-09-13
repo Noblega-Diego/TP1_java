@@ -9,7 +9,7 @@ package TrabajoPracticoN1;
  *
  * @author diego
  */
-public class ejercisio04 {
+public class ejercicio04 {
     public static void main(String[] args){
         int num1 = 22;
         int num2 = 22;

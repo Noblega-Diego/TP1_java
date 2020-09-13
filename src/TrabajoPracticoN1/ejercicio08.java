@@ -7,7 +7,7 @@ package TrabajoPracticoN1;
  *
  * @author diego
  */
-public class ejercisio08 {
+public class ejercicio08 {
     public static void main(String[] args){
         for(int num = 1; num <= 100; num++){
             System.out.println(num);

@@ -8,7 +8,7 @@ import java.util.Scanner;
  *
  * @author diego
  */
-public class ejercisio06 {
+public class ejercicio06 {
     public static void main(String[] args){
         final int IVA = 21;
         

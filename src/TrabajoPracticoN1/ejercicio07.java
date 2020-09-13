@@ -7,7 +7,7 @@ package TrabajoPracticoN1;
  *
  * @author diego
  */
-public class ejercisio07 {
+public class ejercicio07 {
     public static void main(String[] args){
         int num = 1;
         while(num <= 100){

@@ -10,7 +10,7 @@ import java.util.Scanner;
  *
  * @author diego
  */
-public class ejercisio12 {
+public class ejercicio12 {
     public static void main(String[] args){
         byte diaSem;
         Scanner scanner = new Scanner(System.in);
